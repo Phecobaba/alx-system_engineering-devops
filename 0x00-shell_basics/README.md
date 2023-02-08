@@ -10,3 +10,4 @@ delete command
 delete directory command
 navigate to previous directory
 list directory
+ print file 
