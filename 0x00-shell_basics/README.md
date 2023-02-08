@@ -6,3 +6,4 @@ how to list long hidden files
 List long, list id and lsit hidden
 Update for creating a directory
 command to move file
+delete command
