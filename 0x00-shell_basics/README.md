@@ -8,3 +8,4 @@ Update for creating a directory
 command to move file
 delete command
 delete directory command
+navigate to previous directory
