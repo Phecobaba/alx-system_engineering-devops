@@ -13,3 +13,4 @@ list directory
  print file 
 adding symbolic link
 update wildcard
+updated cmd
