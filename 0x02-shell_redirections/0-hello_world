@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 'Hello \n World' > Hello_World.txt
+echo $'Hello \n World' > Hello_World.txt
