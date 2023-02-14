@@ -1,2 +1,2 @@
 #!/bin/bash
-$ tree <directory>
+ls -lR | grep ^d | wc -l
